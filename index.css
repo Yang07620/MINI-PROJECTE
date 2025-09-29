@@ -1,0 +1,18 @@
+   .foto-con-borde figure {
+    border: 2px solid rgb(182, 182, 182);
+    margin: 0;
+    padding: 0;
+    width: 300px;
+    display: inline-block;
+  }
+
+  .foto-con-borde img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  .foto-con-borde figcaption {
+    margin: 0;
+    padding: 4px 8px;
+  }
