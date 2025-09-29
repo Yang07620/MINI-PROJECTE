@@ -2,7 +2,7 @@
     border: 2px solid rgb(182, 182, 182);
     margin: 0;
     padding: 0;
-    width: 300px;
+    width: 250px;
     display: inline-block;
   }
 
@@ -16,3 +16,56 @@
     margin: 0;
     padding: 4px 8px;
   }
+
+  .foto-con-borde {
+    margin-left: 650px;
+    position: relative;
+    top: -1020px;
+    width: 300px;
+  }
+
+  body {
+  max-width: 900px; 
+  margin: 0 auto;  
+  padding: 20px; 
+  box-sizing: border-box;
+}
+
+.informacio figure {
+    border: 2px solid rgb(182, 182, 182);
+    margin: 0;
+    padding: 0;
+    width: 350px;
+    display: inline-block;
+    box-sizing: border-box;
+    padding-bottom: 30px;
+}
+
+.informacio img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.informacio figcaption {
+    margin: 0;
+    padding: 4px 8px;
+    text-align: center;
+}
+
+.informacio {
+    margin-left: 600px;
+    position: relative;
+    width: 350px;
+    top: -20px;
+}
+
+.textoA {
+  margin-top: -800px;
+}
+
+.textosdeinfor {
+  margin-left: 570px;
+  position: relative;
+  display: inline-block;
+}
